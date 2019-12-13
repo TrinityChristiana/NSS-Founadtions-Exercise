@@ -1,0 +1,80 @@
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+    font-size: 2em;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p {
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.ex-border {
+    margin: 20px;
+    padding: 40px;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.double {
+    border-style: double;
+}
+
+.groove {
+    border-style: groove;
+}
+
+.ridge {
+    border-style: ridge;
+}
+
+.inset {
+    border-style: inset;
+}
+
+.outset {
+    border-style: outset;
+}
